@@ -1,0 +1,15 @@
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\bin\Debug\net7.0\ExerciciosSemana02.exe
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\bin\Debug\net7.0\ExerciciosSemana02.deps.json
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\bin\Debug\net7.0\ExerciciosSemana02.runtimeconfig.json
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\bin\Debug\net7.0\ExerciciosSemana02.dll
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\bin\Debug\net7.0\ExerciciosSemana02.pdb
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.csproj.AssemblyReference.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.AssemblyInfoInputs.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.AssemblyInfo.cs
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.dll
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\refint\ExerciciosSemana02.dll
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.pdb
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ExerciciosSemana02.genruntimeconfig.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana02\ExerciciosSemana02\obj\Debug\net7.0\ref\ExerciciosSemana02.dll
