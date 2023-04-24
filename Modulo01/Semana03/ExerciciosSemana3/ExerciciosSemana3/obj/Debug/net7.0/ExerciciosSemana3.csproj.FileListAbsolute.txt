@@ -1,0 +1,15 @@
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\bin\Debug\net7.0\ExerciciosSemana3.exe
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\bin\Debug\net7.0\ExerciciosSemana3.deps.json
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\bin\Debug\net7.0\ExerciciosSemana3.runtimeconfig.json
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\bin\Debug\net7.0\ExerciciosSemana3.dll
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\bin\Debug\net7.0\ExerciciosSemana3.pdb
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.csproj.AssemblyReference.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.AssemblyInfoInputs.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.AssemblyInfo.cs
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.dll
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\refint\ExerciciosSemana3.dll
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.pdb
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ExerciciosSemana3.genruntimeconfig.cache
+D:\Rodrigo\Cursos\Lab365\FloripaMaisTec\Modulo01\Semana03\ExerciciosSemana3\ExerciciosSemana3\obj\Debug\net7.0\ref\ExerciciosSemana3.dll
